@@ -329,6 +329,7 @@ library
     , envy
     , errors
     , extra
+    , file-embed
     , filepath
     , fmt
     , generic-lens
